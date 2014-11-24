@@ -4,7 +4,7 @@ int main(int argc, char const *argv[])
 	freopen("input.txt","r+",stdin);
 	int n;
 	cin >> n;
-	vector<vector<int> > arr;
+	map<int ,map <int ,int> > arr;
 	for (int i = 0; i < n; ++i)
 	{
 		vector<int> row;
@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
 			cin >> a;
 			row.push_back(a);
 		}
-		arr.push_back(row);
+		arr[i] =row;
 	}
 	fclose(stdin);
 	for (int i = 0; i < n; ++i)
