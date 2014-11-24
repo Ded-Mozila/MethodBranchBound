@@ -1,0 +1,1049 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"I",
+				"Inc	#include <…>"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"c",
+				"currentVariableValues"
+			],
+			[
+				"e",
+				"endl"
+			],
+			[
+				"b",
+				"B"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"tr",
+				"triangl_K"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"ma",
+				"make_pair"
+			],
+			[
+				"M",
+				"Matrix"
+			],
+			[
+				"in",
+				"inc	#include \"…\""
+			],
+			[
+				"for",
+				"for	For Loop"
+			],
+			[
+				"N",
+				"N"
+			],
+			[
+				"re",
+				"resize"
+			],
+			[
+				"fo",
+				"for	For Loop"
+			],
+			[
+				"cl",
+				"class	class-..-(class)"
+			],
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"f",
+				"freopen"
+			],
+			[
+				"ca",
+				"class	class-..-(class)"
+			],
+			[
+				"T",
+				"T_vector"
+			],
+			[
+				"t",
+				"T_vector"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"i",
+				"iterator"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"map",
+				"map	std::map"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"C",
+				"CT1_1"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"std",
+				"stdlib"
+			],
+			[
+				"str",
+				"strings"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"w",
+				"wind_speed"
+			],
+			[
+				"m",
+				"month_time"
+			],
+			[
+				"time_s",
+				"time_station"
+			],
+			[
+				"tim",
+				"time_data"
+			],
+			[
+				"a",
+				"Allen"
+			],
+			[
+				"wh",
+				"whour"
+			],
+			[
+				"te",
+				"test"
+			],
+			[
+				"TT",
+				"TTXX"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"sr",
+				"stringTime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 471,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "method.h",
+			"settings":
+			{
+				"buffer_size": 343,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "input.txt",
+			"settings":
+			{
+				"buffer_size": 57,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.h",
+			"settings":
+			{
+				"buffer_size": 94,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/C++_all.sublime-build",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git:status",
+				"Git: Status"
+			],
+			[
+				"git:s",
+				"Git: Status"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 114.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/main.cpp",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/outtext.txt",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/func.cpp",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/typedef.h",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/compressing_plane.cpp",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/compressing_plane.h",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/build_integral_plane.h",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/zeidely.h",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/func.h",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/header.h",
+		"/home/aleks/Aleksander/study/Namm/startMatrix_for view.txt",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/zeidely.cpp",
+		"/home/aleks/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/aleks/Aleksander/study/Namm/2014/lab1/prog/Elasticity/Знаяения интеграллов умноженных на соответствующие множетили.txt",
+		"/home/aleks/.config/sublime-text-2/Packages/SublimeLinter/README.md",
+		"/home/aleks/.config/sublime-text-2/Packages/SublimeLinter/changelog.txt",
+		"/home/aleks/.config/sublime-text-2/Packages/User/SublimeLinter.sublime-settings",
+		"/home/aleksander/study/Namm/2014/lab1/prog/compressing_plane.cpp",
+		"/home/aleksander/study/Namm/2014/lab1/prog/Lab_1.sublime-project",
+		"/home/aleksander/study/Namm/2014/lab1/prog/header.h",
+		"/home/aleksander/.config/sublime-text-3/Packages/User/C++_all.sublime-build",
+		"/home/aleksander/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/aleksander/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/aleksander/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/aleksander/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/aleksander/study/Namm/2014/lab1/prog/.gitignore",
+		"/home/aleksander/Work/aerology/dataSpecialPoints/aeroindex26.10.txt",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints30102014_12.txt",
+		"/home/aleksander/Work/aerology/write_file.cpp",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints30102014_00.txt",
+		"/home/aleksander/Work/aerology/DB_structure_TTAA.h",
+		"/home/aleksander/Work/aerology/WriteFile.h",
+		"/home/aleksander/Work/aerology/ttaa.cpp",
+		"/home/aleksander/Work/aerology/ttbb.cpp",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints28102014_00.txt",
+		"/var/run/media/aleksander/Transcend/Работа/aeroindex26.10.txt",
+		"/home/aleksander/Work/aerology/Поправки/Ошибка 23,10,14/SpecialPoints23102014_00t01.txt",
+		"/usr/share/applications/virtualbox.desktop",
+		"/home/aleksander/Work/aerology/Поправки/Ошибка 23,10,14/aeroindex.txt",
+		"/home/aleksander/Work/aerology/dataSpecialPoints/01102014aeroindex.txt",
+		"/home/aleksander/Work/aerology/Поправки/Ошибка 23,10,14/aeroindex23102014_00.txt",
+		"/home/aleksander/Work/aerology/Поправки/SpecialPoints22102014_12.txt",
+		"/var/run/media/aleksander/4660009C600094B9/Папки/Рабочи стол/жетон.txt",
+		"/home/aleksander/study/СПОЗИ2013/allbest-r-00388104/388104.rtf",
+		"/home/aleksander/study/СПОЗИ2013/allbest-r-00072830/72830.rtf",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints21102014_12t14.txt",
+		"/home/aleksander/Work/aerology/open_aeroindex.cpp",
+		"/home/aleksander/Work/aerology/write.cpp",
+		"/home/aleksander/Work/aerology/main.cpp",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints21102014_12t13.txt",
+		"/var/run/media/aleksander/Transcend/Работа/test_SpecialPoints_3.3/2014/10/15/SpecialPoints15102014_00t02.txt",
+		"/var/run/media/aleksander/Transcend/Работа/test_SpecialPoints_3.3/2014/10/15/SpecialPoints15102014_00t06.txt",
+		"/home/aleksander/Питание",
+		"/home/aleksander/Desktop/ZAVTRAK_SPORTSMENA.txt",
+		"/home/aleksander/Work/aerology/settings.txt",
+		"/home/aleksander/Work/aerology/readingFile.h",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints14102014_00.txt",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints14102014_12.txt",
+		"/home/aleksander/Work/aerology/dataSpecialPoints/aeroindex12102014.txt",
+		"/home/aleksander/Work/aerology/.gitignore",
+		"/home/aleksander/Work/aerology/test_file.txt",
+		"/home/aleksander/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/aleksander/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/aleksander/Work/aerology/local_time.h",
+		"/var/run/media/aleksander/Transcend/Работа/проверка данных/aeroindex.txt",
+		"/var/run/media/aleksander/Transcend/Работа/станции вне списка.txt",
+		"/home/aleksander/Work/seosprint/sprintercliker/seosprint/seosprint/settings.py",
+		"/home/aleksander/Downloads/4kvideodownloader_3.4-1_amd64/debian-binary",
+		"/var/run/media/aleksander/4660009C600094B9/1.[Книжки]/1Учёба/Второй семестр/ПЭВМ/Сочетания/Сортировки.cpp",
+		"/var/run/media/aleksander/4660009C600094B9/1.[Книжки]/1Учёба/Второй семестр/ПЭВМ/Шаблоны/шаблон.cpp",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints09102014_12.txt",
+		"/home/aleksander/Work/aerology/settings.cpp",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints09102014_00.txt",
+		"/home/aleksander/Work/aerology/dataSpecialPoints/aeroinde02102014x.txt",
+		"/home/aleksander/study/ММЭПП/main.cpp",
+		"/home/aleksander/Desktop/Vivokat_#09.20/META-INF/com/google/android/updater-script",
+		"/home/aleksander/Work/aerology/bash/aeroindex.sh",
+		"/home/aleksander/Новый текстовый документ.txt",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints03102014_12.txt",
+		"/home/aleksander/Work/aerology/dataSpecialPoints/30092014aeroindex.txt",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/aeroinde02102014x.txt",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints01102014_00.txt",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints01102014_00 (1).txt",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/10/SpecialPoints01102014_00 (2).txt",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/09/SpecialPoints30092014_12.txt",
+		"/home/aleksander/Work/aerology/dataSpecialPoints/30.09.2014aeroindex.txt",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/09/SpecialPoints30092014_00.txt",
+		"/home/aleksander/Work/aerology/ttcc.cpp",
+		"/home/aleksander/Work/aerology/local_time.cpp",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/09/SpecialPoints28092014_00.txt",
+		"/home/aleksander/Work/aerology/ttdd.cpp",
+		"/home/aleksander/Work/Test/main.cpp",
+		"/home/aleksander/Work/aerology/SpecialPoints/Aerology/2014/09/SpecialPoints28092014_12.txt",
+		"/boot/efi/EFI/opensuse/grubx64.efi"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"i",
+			"size_t",
+			"matrix",
+			";\n",
+			"matrix",
+			"long",
+			"matrix",
+			"[j]",
+			"[i]",
+			";\n",
+			"A",
+			"N",
+			"B",
+			"7",
+			"(*i)",
+			"Matrix",
+			"H",
+			"list",
+			"k",
+			"K",
+			"k",
+			");\n",
+			"xj",
+			"0,T,21",
+			"BuildMatrix",
+			");\n",
+			"Fi",
+			"i",
+			"N",
+			"n",
+			"N",
+			"n",
+			"N",
+			"}\n",
+			"i",
+			"G",
+			"g",
+			"G",
+			"double",
+			"{\n",
+			"firstNorm",
+			"thirdNorm",
+			"zeidely",
+			"j",
+			"i",
+			"n",
+			"N",
+			"BuildMatrix",
+			"list< map<int,double> > >",
+			";//=",
+			"i",
+			");\n",
+			"i",
+			"T",
+			"Ti",
+			"mElement",
+			" ",
+			"i",
+			"{\n",
+			"make",
+			"cin",
+			"}",
+			"h",
+			"1",
+			"wind_speed",
+			"47909",
+			"&&&&&&&&&&&&&&&",
+			"MaxWind",
+			"Not good",
+			"cout",
+			"cin",
+			";\n",
+			"76128 47991",
+			"&&&&&&&&&&&&&&&",
+			"31538",
+			"47580",
+			"24688",
+			"25540",
+			"21432",
+			"(*i)",
+			"TTCC",
+			" (*i).",
+			"(*i)",
+			"&&&&&&&&&&&&&&&",
+			"!!!!!!!!!!!!!!!!!",
+			"&&&&&&&&&&&&&&&",
+			"24641",
+			"&&&&&&&&&&&&&&&",
+			"54727",
+			"&&&&&&&&&&&&&&&",
+			"090000",
+			"090100",
+			"091200",
+			"09120",
+			"091200",
+			"&&&&&&&&&&&&&&&",
+			"date",
+			"&&&&&&&&&&&&&&&",
+			"3012/ 24641 11991 55159 22919 52359 33808 56159 44332 56361 55157 50162 66137 45963 77088 44764 88076 41164 99064 42964 21212 11997 01006 22909 34007 33702 03005 44602 03502 55521 26503 66446 27505 77243 22510 88163 23018 99139 24520 11127 25519 22114 24015 33103 22518 44080 22032 55064 23536",
+			"&&&&&&&&&&&&&&&",
+			"53772",
+			"31300 ",
+			"25400",
+			"31770",
+			"29698",
+			"296984",
+			"47401",
+			"24343",
+			"3",
+			"24343",
+			"28128 24343 NTL",
+			"cout",
+			"TTX"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"settings":
+					{
+						"buffer_size": 471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "method.h",
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "input.txt",
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "header.h",
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/C++ Starting Kit/C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.607565011821,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 61.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"m",
+				"compressing_plane.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 503.0,
+		"selected_items":
+		[
+		],
+		"width": 382.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
