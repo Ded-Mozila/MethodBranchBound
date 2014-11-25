@@ -27,16 +27,6 @@ int main(int argc, char const *argv[])
 	}
 	cout << endl;
 	BranchBound met(arr);
-	vector<int> row = met.MinRow();
-	for (int i = 0; i < n; ++i)
-	{
-		cout << row[i] << endl;
-	}
-	cout << endl;
-	vector<int> column = met.MinColumn();
-	for (int i = 0; i < n; ++i)
-	{
-		cout << column[i] << endl;
-	}
+	met.Minimization();
 	return 0;
 }
