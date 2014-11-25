@@ -25,6 +25,8 @@ public:
 	pair<int,int> MinArc(vector<vector<int> > arr);//Поиск минимального узла или дуги
 	vector<vector<int > > DeleteNode(vector<vector<int> > arr, pair<int,int> x);
 	vector<vector<int > > DeleteArc(vector<vector<int> > arr, pair<int,int> x);
-	int Minumum(vector<vector<int> > arr, int min);
+	int Minumum(vector<vector<int> > arr, int min, pair<int,int> tt);
+	pair<int,int> Transporn(pair<int,int> x);
+	void DelElement(pair<int,int> x);
 };
 #endif
